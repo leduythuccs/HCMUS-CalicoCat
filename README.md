@@ -2,9 +2,9 @@
 
 ## Team members
 
-* [Nguyen E Ro]()
-* [Doan Phu Duc]()
-* [Hoang Xuan Nhat]()
+* [Nguyen E Ro](http://codeforces.com/profile/N.E.R.O)
+* [Doan Phu Duc](http://codeforces.com/profile/DoanPhuDuc)
+* [Hoang Xuan Nhat](http://codeforces.com/profile/FallingStar1709)
 
 ## ACM - ICPC
  
