@@ -1,41 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to HCMUS-Ascension
 
-You can use the [editor on GitHub](https://github.com/nero1342/APCS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Team members
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Nguyen E Ro]()
+* [Doan Phu Duc]()
+* [Hoang Xuan Nhat]()
 
-### Markdown
+## ACM - ICPC
+ 
+| Date       | Contest                    | Rank | AC   | Max  | A     | B     | C     | D     | E     | F     | G     | H     | I     | J     | K     | L     | M    |
+| ---------- | -------------------------- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ---- |
+| 2018.11.04 | Vietnam National | 16 | 5   | 12   |  |  |  | **D** | **E** |  | **G** |  | **I** | **J** | | |      |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contest / Training
 
+|Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
+||Kuala Lumpur 2014|9|10|12|**A**|**B**|**C**|**D**|**E**|**F**|**G**|**H**||**J**||**L**||
+||Jarkata 2015 |7|8|12|**A**||**C**|**D**|**E**|**F**|||**I**|**J**||**L**||
 
-```c++
-cout << "Hello";
-```
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nero1342/APCS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
