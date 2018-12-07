@@ -26,3 +26,9 @@
 ||Bangkok Regional 2014 |3|10|12|**A**|**B**|||**E**|**F**|**G**|**H**|**I**|**J**|**K**|**L**||
 ||Jakarta Regional 2014 |6|9|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**|**H**||**J**||||
 ||Bangkok Regional 2014 |9|7|11||**B**|**C**||**E**|**F**|**G**|**H**|**I**|||**L**||
+
+## Những câu nói bất hủ của team
+
+### Đức
+
+Đợi lượng "em gái" bão hòa, lượng sẽ đổi thành chất.
