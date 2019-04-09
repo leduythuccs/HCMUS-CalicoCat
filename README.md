@@ -31,8 +31,9 @@
 ||Jakarta Regional 2014 |6|9|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**|**H**||**J**||||
 ||Bangkok Regional 2014 |9|7|11||**B**|**C**||**E**|**F**|**G**|**H**|**I**|||**L**||
 ||SWERC 2017 |29|8|11|**A**|**B**|**C**|**D**|**E**|**F**|.|||**J**|**K**|||
+
 ## Những câu nói bất hủ của team
 
 ### Đức
 
-Đợi lượng "em gái" bão hòa, lượng sẽ đổi thành chất.
+* Đợi lượng "em gái" bão hòa, lượng sẽ đổi thành chất.
