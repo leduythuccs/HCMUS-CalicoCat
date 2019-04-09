@@ -15,6 +15,7 @@
 | 2018.12.09 | Yangon Regional 2018 | 12 | 7 | 12   | **A** | **B** | **C** |  |  | **F** | **G** |  |  | **J** | **K** | |      |
 
  * 2018.11.30 Bronze Medal in Hanoi Regional 2018.
+ 
 ## Contest / Training
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
