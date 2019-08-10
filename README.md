@@ -6,6 +6,21 @@
 * [Doan Phu Duc](http://codeforces.com/profile/DoanPhuDuc)
 * [Hoang Xuan Nhat](http://codeforces.com/profile/FallingStar1709)
 
+
+# 2019 - 2020
+## ACM - ICPC
+ 
+| Date       | Contest                    | Rank | AC   | Max  | A     | B     | C     | D     | E     | F     | G     | H     | I     | J     | K     | L     | M    |
+| ---------- | -------------------------- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ---- |
+
+## Contest / Training
+
+|Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
+||NEERC, Northern Subregional Contest 2014||7|11|**A**|**B**||**D**||.|**G**|||**J**||**L**|**K**|
+
+
+# 2018 - 2019
 ## ACM - ICPC
  
 | Date       | Contest                    | Rank | AC   | Max  | A     | B     | C     | D     | E     | F     | G     | H     | I     | J     | K     | L     | M    |
