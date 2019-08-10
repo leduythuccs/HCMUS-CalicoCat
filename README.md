@@ -17,7 +17,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
-||NEERC, Northern Subregional Contest 2014||7|11|**A**|**B**||**D**||.|**G**|||**J**||**L**|**K**|
+||NEERC, Northern Subregional Contest 2014||7|11|**A**|**B**||**D**||.|**G**||**I**|**J**|**K**|||
 
 
 # 2018 - 2019
