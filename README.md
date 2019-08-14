@@ -18,6 +18,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
+|2019.08.14|Asia Seoul Regional Contest 2018|10|8|12|**A**|**B**||**D**|**E**|**F**||||**J**|**K**|**L**||
 |2019.08.13|Asia Yokohama Regional Contest 2018|17|6|11|**A**|**B**|**C**|**D**|||**G**||||**K**|||
 |2019.08.12|NEERC, Northern Subregional Contest 2015|16|8|12|**A**|**B**|.|**D**|**E**||**G**|**H**||**J**||**L**||
 |2019.08.09|NEERC, Northern Subregional Contest 2014|18|7|11|**A**|**B**||**D**||.|**G**|.|**I**|**J**|**K**|||
