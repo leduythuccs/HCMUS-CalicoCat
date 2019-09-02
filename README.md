@@ -18,6 +18,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
+|2019.09.02|Asia Jiaozuo Regional Contest 2018 |17|7|12|**A**|**B**||**D**|**E**|**F**||**H**|**I**||.||
 |2019.08.30|Asia Tokyo Regional Contest 2014* |5|8|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**||**I**||.||
 |2019.08.28|Asia Tsukuba Regional Contest 2017* |6|7|11|**A**|**B**|**C**||**E**|**F**|**G**||**I**||||
 |2019.08.26|Asia Tsukuba Regional Contest 2015|12|7|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**||.||||
