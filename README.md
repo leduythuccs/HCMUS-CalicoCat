@@ -18,6 +18,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
+|2019.09.09|2018-2019 ACM-ICPC, Asia Xuzhou Regional Contest|16|4|13|.||||||**G**|**H**|**I**||||**M**|
 |2019.09.04|NEERC, Northern Subregional Contest 2013|10|8|12|**A**|**B**|.|**D**|**E**|**F**|**G**|**H**|||**K**|||
 |2019.09.02|Asia Jiaozuo Regional Contest 2018 |17|7|12|**A**|**B**||**D**|**E**|**F**||**H**|**I**||.||
 |2019.08.30|Asia Tokyo Regional Contest 2014* |5|8|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**||**I**||.||
