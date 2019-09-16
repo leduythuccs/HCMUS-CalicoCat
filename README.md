@@ -18,6 +18,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
+|2019.09.16|2017-2018 ACM-ICPC, Asia Hua Lien Regional Contest|3|12|13|**A**|**B**|**C**|**D**|**E**||**G**|**H**|**I**|**J**|**K**|**L**|**M**|
 |2019.09.11|2018-2019 ACM-ICPC, Asia Nanjing Regional Contest|14|7|13|**A**|.||.|.||**G**||**I**|**J**|**K**|**L**|**M**|
 |2019.09.09|2018-2019 ACM-ICPC, Asia Xuzhou Regional Contest|16|4|13|.||||||**G**|**H**|**I**||||**M**|
 |2019.09.04|NEERC, Northern Subregional Contest 2013|10|8|12|**A**|**B**|.|**D**|**E**|**F**|**G**|**H**|||**K**|||
