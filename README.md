@@ -14,24 +14,24 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
 |||||||||||||||||||
 
-## Contest / Training
+## Contests/ Training
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2019.09.16|2017 Asia Hua Lien Regional Contest*|3|12|13|**A**|**B**|**C**|**D**|**E**||**G**|**H**|**I**|**J**|**K**|**L**|**M**|
-|2019.09.11|2018 Asia Nanjing Regional Contest|14|7|13|**A**|.||.|.||**G**||**I**|**J**|**K**|**L**|**M**|
-|2019.09.09|2018 Asia Xuzhou Regional Contest|16|4|13|.||||||**G**|**H**|**I**||||**M**|
-|2019.09.04|2014 NEERC, Northern Subregional Contest|10|8|12|**A**|**B**|.|**D**|**E**|**F**|**G**|**H**|||**K**|||
-|2019.09.02|2018 Asia Jiaozuo Regional Contest|17|7|12|**A**|**B**||**D**|**E**|**F**||**H**|**I**||.||
-|2019.08.30|2014 Asia Tokyo Regional Contest* |5|8|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**||**I**||.||
-|2019.08.28|2017 Asia Tsukuba Regional Contest* |6|7|11|**A**|**B**|**C**||**E**|**F**|**G**||**I**||||
-|2019.08.26|2015 Asia Tsukuba Regional Contest|12|7|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**||.||||
+|2019.09.16|2017 Asia Hua Lien Regional*|3|12|13|**A**|**B**|**C**|**D**|**E**||**G**|**H**|**I**|**J**|**K**|**L**|**M**|
+|2019.09.11|2018 Asia Nanjing Regional|14|7|13|**A**|.||.|.||**G**||**I**|**J**|**K**|**L**|**M**|
+|2019.09.09|2018 Asia Xuzhou Regional|16|4|13|.||||||**G**|**H**|**I**||||**M**|
+|2019.09.04|2014 NEERC, Northern Subregional|10|8|12|**A**|**B**|.|**D**|**E**|**F**|**G**|**H**|||**K**|||
+|2019.09.02|2018 Asia Jiaozuo Regional|17|7|12|**A**|**B**||**D**|**E**|**F**||**H**|**I**||.||
+|2019.08.30|2014 Asia Tokyo Regional* |5|8|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**||**I**||.||
+|2019.08.28|2017 Asia Tsukuba Regional* |6|7|11|**A**|**B**|**C**||**E**|**F**|**G**||**I**||||
+|2019.08.26|2015 Asia Tsukuba Regional|12|7|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**||.||||
 |2019.08.19|2018 Asia Dhaka Regional|14|5|10||**B**|**C**||**E**|.|.|**H**|.|**J**||||
 |2019.08.15|2018 Asia East Continent Finals|xxx|3|12||||**D**||.|||**I**|||**L**||
-|2019.08.14|2018 Asia Seoul Regional Contest 2018|10|8|12|**A**|**B**||**D**|**E**|**F**||||**J**|**K**|**L**||
-|2019.08.13|2018 Asia Yokohama Regional Contest|17|6|11|**A**|**B**|**C**|**D**|||**G**||.|.|**K**|||
-|2019.08.12|2015 NEERC, Northern Subregional Contest|16|8|12|**A**|**B**|.|**D**|**E**||**G**|**H**||**J**||**L**||
-|2019.08.09|2014 NEERC, Northern Subregional Contest|18|7|11|**A**|**B**||**D**||.|**G**|.|**I**|**J**|**K**|||
+|2019.08.14|2018 Asia Seoul Regional 2018|10|8|12|**A**|**B**||**D**|**E**|**F**||||**J**|**K**|**L**||
+|2019.08.13|2018 Asia Yokohama Regional|17|6|11|**A**|**B**|**C**|**D**|||**G**||.|.|**K**|||
+|2019.08.12|2015 NEERC, Northern Subregional|16|8|12|**A**|**B**|.|**D**|**E**||**G**|**H**||**J**||**L**||
+|2019.08.09|2014 NEERC, Northern Subregional|18|7|11|**A**|**B**||**D**||.|**G**|.|**I**|**J**|**K**|||
 |2019.03.31|2017 SWERC* |3|8|11|**A**|**B**|**C**|**D**|**E**|**F**|.||.|**J**|**K**|||
 
 
@@ -41,13 +41,13 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 2018.11.04 | 2018 ICPC Vietnam National Contest | 16 | 5   | 12   | . | . | . | **D** | **E** | . | **G** |  | **I** | **J** | .| .|      |
-| 2018.11.30 | 2018 Asia Hanoi Regional Contest | 14 | 4   | 12   |  |  | **C** |  |  |  |  | **H** | **I** |  | |**L** |  |
-| 2018.12.09 | 2018 Asia Yangon Regional Contest | 12 | 7 | 12   | **A** | **B** | **C** |  |  | **F** | **G** |  |  | **J** | **K** | |      |
+|2018.11.04|2018 ICPC Vietnam National|16|5|12|.|.|.|**D**|**E**|.|**G**||**I**|**J**|.|.||
+|2018.11.30|2018 Asia Hanoi Regional|14|4|12|||**C**|||||**H**|**I**|||**L**||
+|2018.12.09|2018 Asia Yangon Regional|12|7|12|**A**|**B**|**C**|||**F**|**G**|||**J**|**K**|||
 
  * 2018.11.30 Bronze Medal in Hanoi Regional 2018.
  
-## Contest / Training
+## Contests/ Training
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
