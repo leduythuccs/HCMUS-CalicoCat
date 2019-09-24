@@ -18,7 +18,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2019.09.23|2015 Asia Taipei Regional|7|8|12|**A**|**B**|**C**|**D**|||**G**|**H**|.|**?**||**L**||
+|2019.09.23|[2015 Asia Taipei Regional](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=694)|[7](http://icpc2015.csie.ntnu.edu.tw/ICPC2015_result/ICPC2015_result.html) |8|12|**A**|**B**|**C**|**D**|||**G**|**H**|.|**?**||**L**||
 |2019.09.16|2017 Asia Hua Lien Regional*|3|12|13|**A**|**B**|**C**|**D**|**E**||**G**|**H**|**I**|**J**|**K**|**L**|**M**|
 |2019.09.11|2018 Asia Nanjing Regional|14|7|13|**A**|.||.|.||**G**||**I**|**J**|**K**|**L**|**M**|
 |2019.09.09|2018 Asia Xuzhou Regional|16|4|13|.|||.|.||**G**|**H**|**I**|.|||**M**|
