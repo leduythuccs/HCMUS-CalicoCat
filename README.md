@@ -18,6 +18,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|2019.09.30|[2018 SEERC*](https://codeforces.com/gym/101964)|[1](https://codeforces.com/gym/101964/standings)|7|11||**B**|**C**||**E**|**F**|**G**||**I**|**J**||||
 |2019.09.27|[2014 Asia Taichung Regional*](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=649)|[1](https://web.archive.org/web/20151208164357/http://icpc2014.pu.edu.tw/score_finish.php) |10|12|**A**|**B**|**C**|**D**|**E**|**F**|**G**|**H**|**I**|**J**||||
 |2019.09.23|[2015 Asia Taipei Regional](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=694)|[7](http://icpc2015.csie.ntnu.edu.tw/ICPC2015_result/ICPC2015_result.html) |8|12|**A**|**B**|**C**|**D**|||**G**|**H**|.|**?**||**L**||
 |2019.09.16|2017 Asia Hua Lien Regional*|3|12|13|**A**|**B**|**C**|**D**|**E**||**G**|**H**|**I**|**J**|**K**|**L**|**M**|
