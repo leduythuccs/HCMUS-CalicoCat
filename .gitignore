@@ -1,0 +1,17 @@
+# Folder
+.vscode
+# File inp/out
+input.txt
+output.txt 
+ans.txt
+test.inp
+test.out 
+
+# Run file 
+*.o 
+
+# Temporary
+.DS_Store
+
+
+
