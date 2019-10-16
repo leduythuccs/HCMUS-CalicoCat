@@ -12,8 +12,8 @@
  
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
-|2019.10.13|2019 ICPC Vietnam Northern|6|8|12|.|**B**|**C**||**E**|**F**|**G**|**H**|.|.|**K**|**L**||
-|2019.10.06|2019 ICPC Vietnam Central|4|9|12|**A**|**B**|**C**|**D**|**E**|||**H**|**I**|.|**K**|**L**||
+|2019.10.13|2019 ICPC Vietnam Northern|[6](https://htmlpreview.github.io/?https://github.com/nero1342/HCMUS-Ascension/blob/master/Code/2019%20Vietnam%20Northern%20Provincial%20Contest/Standings.htm)|8|12|.|**B**|**C**||**E**|**F**|**G**|**H**|.|.|**K**|**L**||
+|2019.10.06|2019 ICPC Vietnam Central|[4](https://htmlpreview.github.io/?https://github.com/nero1342/HCMUS-Ascension/blob/master/Code/2019%20Vietnam%20Central%20Provincial%20Contest/Standings.htm)|9|12|**A**|**B**|**C**|**D**|**E**|||**H**|**I**|.|**K**|**L**||
 |2019.10.05|2019 ICPC HCMUS|2|6|10|**A**|**B**|**C**||**E**||**G**|**H**||||||
 
 ## Contests/ Training
