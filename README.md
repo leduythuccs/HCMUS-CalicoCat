@@ -21,7 +21,7 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2019.10.30|2013 Asia Phuket Regional|1|10|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**|**H**|**I**|**J**||||
+|2019.10.30|2013 Asia Phuket Regional*|1|10|11|**A**|**B**|**C**|**D**|**E**|**F**|**G**|**H**|**I**|**J**||||
 |2019.10.16|2019 World Finals|||11|.|||.|.||.|.||||||
 |2019.09.30|[2018 SEERC*](https://codeforces.com/gym/101964)|[1](https://codeforces.com/gym/101964/standings)|7|11||**B**|**C**||**E**|**F**|**G**|.|**I**|**J**|.|||
 |2019.09.27|[2014 Asia Taichung Regional*](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=649)|[1](https://web.archive.org/web/20151208164357/http://icpc2014.pu.edu.tw/score_finish.php) |10|12|**A**|**B**|**C**|**D**|**E**|**F**|**G**|**H**|**I**|**J**||||
