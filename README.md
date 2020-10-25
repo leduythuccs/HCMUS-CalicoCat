@@ -18,4 +18,4 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2020.10.22|[2019-2020 ICPC Asia Taipei-Hsinchu Regional Contest](https://codeforces.com/gym/102460)|[42](https://codeforces.com/gym/102460/standings)|9|13|**A**||**C**|**D**|**E**|||**H**|**I**|**J**|***K**|**L**||
+|2020.10.22|[2019-2020 ICPC Asia Taipei-Hsinchu Regional Contest](https://codeforces.com/gym/102460)|[42](https://codeforces.com/gym/102460/standings)|9|13|**A**||**C**|**D**|**E**|||**H**|**I**|**J**|**K**|**L**||
