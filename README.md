@@ -12,7 +12,7 @@
  
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
-|2020.10.25|2020 ICPC Vietnam Southern|[7](https://htmlpreview.github.io/?https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/Standings.mhtml)|7|12|**A**|**B**|**C**|**D**||**F**|||**I**||**K**|||
+|2020.10.25|2020 ICPC Vietnam Southern|[7](https://htmlpreview.github.io/?https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/Standings.html)|7|12|**A**|**B**|**C**|**D**||**F**|||**I**||**K**|||
 
 ## Contests/ Training
 
