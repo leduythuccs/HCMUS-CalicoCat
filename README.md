@@ -12,7 +12,7 @@
  
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| --- |
-|2020.10.25|2020 ICPC Vietnam Southern|[7](https://htmlpreview.github.io/?https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/Standings.html)|7|12|**+<br>7**|**+<br>12**|**+4<br>53**|**+<br>42**||**+2<br>267**|||**+1<br>327**||**+<br>18**|||
+|2020.10.25|2020 ICPC Vietnam Southern|[7](https://htmlpreview.github.io/?https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/Standings.html)|7|12|**[+](https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/A.cpp)<br>7**|**[+](https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/B.cpp)<br>12**|**[+4](https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/C.cpp)<br>53**|**[+](https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/D.py)<br>42**||**[+2](https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/F.cpp)<br>267**|||**[+1](https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/I.cpp)<br>327**||**[+](https://github.com/leduythuccs/HCMUS-CalicoCat/blob/master/Code/2020%20Vietnam%20Southern%20Provincial%20Contest/K.cpp)<br>18**|||
 
 ## Contests/ Training
 
