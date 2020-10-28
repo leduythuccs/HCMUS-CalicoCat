@@ -18,7 +18,5 @@
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
 |2020.10.28|[XXI Open Cup. Grand Prix of Korea](https://codeforces.com/gym/102759)|[97](https://codeforces.com/gym/102759/standings)|4|12||||**+2<br>02:56**||||**+3<br>01:11**||**+<br>02:06**|**+1<br>00:27**|||
-
 |2020.10.22|[2019-2020 ICPC Asia Taipei-Hsinchu Regional Contest](https://codeforces.com/gym/102460)|[42](https://codeforces.com/gym/102460/standings)|9|13|**+<br>01:52**||**+<br>00:04**|**+<br>00:07**|**+5<br>03:23**|||**+<br>00:36**|**+<br>04:10**|**+<br>00:49**|**+<br>00:10**|**+<br>02:27**||
