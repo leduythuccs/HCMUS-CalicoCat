@@ -22,7 +22,8 @@ Note: All submission has been offset by one to follow the codeforces standings f
 
 |Date|Contest|Rank|AC|Max|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2020.11.08|[XX Open Cup named after E.V. Pankratiev. Grand Prix of SPb, Division 1]|109|8|11|**+<br>01:18**|**+<br>02:41**|||**+<br>00:16**|**+<br>03:26**||**+<br>03:09**|**+<br>00:21**|**+<br>00:49**|**+<br>01:22**|||
+|2020.12.02|[2020 China Collegiate Programming Contest, Weihai Site](https://codeforces.com/gym/102798)|[42](https://codeforces.com/gym/102798)|12|6|**+2<br>00:45**|**+1<br>02:08**||**+2<br>00:19**|||**+2<br>03:27**|**+<br>00:39**||||**+1<br>01:18**||
+|2020.11.08|XX Open Cup named after E.V. Pankratiev. Grand Prix of SPb, Division 1|109|8|11|**+<br>01:18**|**+<br>02:41**|||**+<br>00:16**|**+<br>03:26**||**+<br>03:09**|**+<br>00:21**|**+<br>00:49**|**+<br>01:22**|||
 |2020.11.08|[The 14th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102801)|[5](https://codeforces.com/gym/102801/standings)|10|12||**+<br>01:14**|**+<br>01:03**|**+<br>00:19**|**+<br>02:57**||**+<br>00:27**|**+1<br>02:13**|**+1<br>03:07**|**+<br>00:32**|**+2<br>04:59**|**+<br>04:16**||
 |2020.11.04|[ICPC Central Russia Regional Contest (CRRC 19)](https://codeforces.com/gym/102780)|[9](https://codeforces.com/gym/102780/standings)|7|11|**+<br>00:05**|**+<br>00:21**|**+1<br>01:20**|**+<br>01:34**||**+<br>00:16**||**+<br>00:08**|||**+<br>00:35**|||
 |2020.10.28|[XXI Open Cup. Grand Prix of Korea](https://codeforces.com/gym/102759)|[97](https://codeforces.com/gym/102759/standings)|4|12||||**+2<br>02:56**||||**+3<br>01:11**||**+<br>02:06**|**+1<br>00:27**|||
