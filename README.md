@@ -2,6 +2,8 @@
 [Website](https://leduythuccs.github.io/HCMUS-CalicoCat/)
 ## Team members
 
+[04/12/2020] Due to Covid19, I cannot be with my team in Regional Vietnam Contest :(. I hope Nhat, Phuong and Ro (new member of CalicoCat) will do great in Regional. 
+
 * [Le Duy Thuc](https://codeforces.com/profile/ImForbiddenToSayILoveYou)
 * [Hoang Xuan Nhat](https://codeforces.com/profile/FallingStar1709)
 * [Ho Thi Ngoc Phuong](https://codeforces.com/profile/GuluTheFish)
