@@ -4,7 +4,7 @@
 
 [04/12/2020] Due to Covid-19, I (Thuc) cannot be with my team in the Regional Vietnam Contest :(. I hope Nhat, Phuong, and Ro (new member of CalicoCat) will do great in the Regional. 
 
-After today, I will not update any infomation about this team anymore. 
+After today, I will not update any information about this team anymore. 
 
 * ~~[Le Duy Thuc](https://codeforces.com/profile/ImForbiddenToSayILoveYou)~~
 * [Hoang Xuan Nhat](https://codeforces.com/profile/FallingStar1709)
